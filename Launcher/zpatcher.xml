@@ -21,7 +21,7 @@
 		<li>Here is some html.</li>
 </ul>
 ]]>
-</desc>
+</desc> 
         </build>
     </builds>
     <patches>
