@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <zupdater>
-<!--    <application>zpatcher test suite</application> -->
+  <application>Alteri Launcher</application> 
     <builds>
         <build>
             <version>2</version>
