@@ -21,7 +21,7 @@
 		<li>More html stuff.</li>
 </ul>
 ]]>
-</desc> 
+</desc>
         </build>
     </builds>
     <patches>
@@ -38,6 +38,13 @@
             <file>https://raw.githubusercontent.com/TheZoc/ZPatcher/master/tests/patches/base_to_rev2.zpatch</file>
             <size>351</size>
             <md5>34239473447c4f8a866f04e47e075398</md5>
+        </patch>
+        <patch>
+          <source_version>2</source_version>
+          <destination_version>3</destination_version>
+          <file>https://raw.githubusercontent.com/pythion/Alteri/master/Patches/FirstPatch.zpatch</file>
+          <size>3330100</size>
+          <md5>34239473447c4f8a866f04e47e075398</md5>
         </patch>
     </patches>
 </zupdater>
