@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <zupdater>
-    <application>ZPatcher Test Suite</application>
+<!--    <application>zpatcher test suite</application> -->
     <builds>
         <build>
             <version>2</version>
